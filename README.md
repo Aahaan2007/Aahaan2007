@@ -63,7 +63,7 @@ I'm **Aahaan** — an AI Automation Engineer and Full Stack Developer working at
 | 📊 **CRM Dashboard** | Full-featured CRM with pipeline management, analytics & role-based access | FastAPI · PostgreSQL · JavaScript |
 | ⚙️ **Agentic Workflow Engine** | Multi-agent orchestration system for complex business task automation | Python · LangChain · CrewAI |
 | 💬 **Chat Analytics Tool** | NLP-powered conversation insights dashboard with sentiment & topic analysis | Python · Streamlit · Pandas |
-| 🎨 **Portfolio Website** | This portfolio — zero dependencies, animated dark UI, custom design system | HTML · CSS · Vanilla JS |
+| 🎨 **Portfolio Website** | My portfolio website — zero dependencies, animated dark UI, custom design system | HTML · CSS · Vanilla JS |
 
 ---
 
@@ -108,25 +108,3 @@ When I'm not building things, you'll find me:
 > *"The best code is invisible — it just works, elegantly."*
 
 ---
-
-## 📬 Let's Work Together
-
-Got a project that needs intelligent automation, a solid backend, or a polished frontend? Let's talk.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email_Me-aahaan.webdev@gmail.com-4F8CFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aahaan.webdev@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahaan-ankur/)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aahaan2007&color=4f8cff&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-<div align="center">
-  <sub>Crafted with ♥ — always open to interesting problems</sub>
-</div>
