@@ -26,7 +26,7 @@ I'm **Aahaan** — an AI Automation Engineer and Full Stack Developer working at
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -48,7 +48,7 @@ I'm **Aahaan** — an AI Automation Engineer and Full Stack Developer working at
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
