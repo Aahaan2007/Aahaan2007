@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hey, I'm Aahaan 👋
+# Hey, I'm Aahaan.
 
 ### AI Automation Engineer • Full Stack Developer • Agentic Workflow Designer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Designing+Agentic+Workflows+%E2%9A%99%EF%B8%8F;Crafting+Pixel-Perfect+Interfaces+%F0%9F%8E%A8;Open+for+Freelance+%26+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F8CFF?style=for-the-badge&logo=vercel&logoColor=white)]([https://aahaan.dev](https://aahaanwebdev.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F8CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://aahaanankur.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahaan-ankur/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aahaan.builds@gmail.com)
 
@@ -16,15 +14,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm **Aahaan** — an AI Automation Engineer and Full Stack Developer working at the intersection of artificial intelligence and software engineering. I design **agentic systems** that can think, plan, and act autonomously, and build **web applications** that are fast, accessible, and beautiful.
 
-- 🔭 Currently building: AI-powered automation tools and agentic workflows
-- 🌱 Always exploring: LLM applications, multi-agent systems, RAG pipelines
-- 💼 Open to: Freelance projects, agency work, and technical collaborations
-- 📍 Based in India
-- 🎸 Musician | 🏋️ Gym Enthusiast | 🤖 AI Nerd
+- Currently building: AI-powered automation tools and agentic workflows
+- Always exploring: LLM applications, multi-agent systems, RAG pipelines
+- Open to: Freelance projects, agency work, and technical collaborations
+- Based in India
+- Musician | Gym Enthusiast | AI Nerd
 
 ---
 
@@ -56,13 +54,12 @@ I'm **Aahaan** — an AI Automation Engineer and Full Stack Developer working at
 |---------|-------------|-------|
 | 🤖 **AI Lead Conversion System** | Qualifies leads with AI intent scoring & sends automated personalized responses | Python · Gemini API · Email Automation |
 | 📊 **CRM Dashboard** | Full-featured CRM with pipeline management, analytics & role-based access | FastAPI · PostgreSQL · JavaScript |
-| ⚙️ **Agentic Workflow Engine** | Multi-agent orchestration system for complex business task automation | Python · LangChain · CrewAI |
 | 💬 **Chat Analytics Tool** | NLP-powered conversation insights dashboard with sentiment & topic analysis | Python · Streamlit · Pandas |
-| 🎨 **Portfolio Website** | My portfolio website — zero dependencies, animated dark UI, custom design system | HTML · CSS · Vanilla JS |
+| 🎨 **Portfolio Website** | My portfolio website — zero dependencies, exaggerated minimalist dark UI | HTML · CSS · Vanilla JS |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -78,27 +75,14 @@ I'm **Aahaan** — an AI Automation Engineer and Full Stack Developer working at
 
 ---
 
-## 🎯 What I Build
-
-```text
-AI Automation      ████████████████████░   85%
-Full Stack Web     ████████████████░░░░░   70%
-Agentic Workflows  ███████████████████░░   80%
-System Design      ██████████████░░░░░░░   60%
-UI/UX             ████████████████░░░░░   65%
-```
-
----
-
-## 🎸 Beyond the Code
+## Beyond the Code
 
 When I'm not building things, you'll find me:
 
-- 🎸 **Playing guitar** — indie, fingerstyle, and whatever sounds good at 2am
-- 🏋️ **At the gym** — consistency is a skill that transfers to code
-- 🎵 **Making music** — producing and experimenting with sound design
-- 📖 **Reading** about AI research, system design, and philosophy of mind
-- ☕ **Drinking too much coffee** and thinking about the next project
+- **Playing guitar** — indie, fingerstyle, and whatever sounds good at 2am
+- **At the gym** — consistency is a skill that transfers to code
+- **Making music** — producing and experimenting with sound design
+- **Reading** about AI research, system design, and philosophy of mind
 
 > *"The best code is invisible — it just works, elegantly."*
 
